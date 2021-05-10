@@ -1,0 +1,34 @@
+TIM VICTORY
+
+Anggota 1
+Nama	: Bagus Almahenzar
+NIM	: 221911108
+Kelas	: 2KS3
+
+
+Anggota 2
+Nama	: Muhammad Arya Septa Kovitra
+NIM	: 221910940
+Kelas	: 2KS3
+
+
+Anggota 3
+Nama	: Muhammad Apriesya Wastu
+NIM	: 221910876
+Kelas	: 2KS3
+
+
+
+PENJELASAN WEBSITE
+Website yang kami buat bertujuan sebagai penjelasan mengenai pendidikan
+dan juga untuk pendaftaran ke komunitas belajar yang kami dirikan.
+Pada website tersebut, terdapat 7 bagian yang dapat diakses dari navigasi
+yaitu home, offer, features, kalkulator, our team, contact, dan footer.
+
+Pada Home, menjelaskan apa itu pendidikan dan pentingnya pendidikan.
+Pada offer, menjelaskan klasifikasi pendidikan di Indonesia.
+Pada features, menjelaskan jenis kecerdasan pada manusia.
+Pada kalkulator, terdapat fitur kalkulator yang dapat digunakan oleh user.
+Pada our team, terdapat foto, nama dan asal daerah dari pembuat website ini.
+Pada contact, terdapat formulir untuk bergabung ke dalam komunitas belajar.
+Pada footer, terdapat copyright dan lain-lain.
