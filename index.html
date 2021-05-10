@@ -257,6 +257,7 @@
         </div>
       </div>
     </footer>
+   
 
     <!-- social icons -->
     <div class="social-icons">
@@ -266,4 +267,11 @@
       <img src="images/linkedin.png" alt="">
     </div>
   </body>
+  <script>
+    const menutoggle = document.querySelector(".menu-toggle input");
+    const nav = document.querySelector("nav ul");
+    menutoggle.addEventListener("click", function () {
+    nav.classList.toggle("slide");
+    });
+  </script>
 </html>

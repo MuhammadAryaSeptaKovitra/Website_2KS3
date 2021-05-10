@@ -1,10 +1,10 @@
-@import url('https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800,900&display=swap');
+@import url("https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800,900&display=swap");
 
-*{
+* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
 }
 
 #header {
@@ -535,7 +535,7 @@ body {
     display: flex;
     position: absolute;
     top: 0;
-    height: 120vh;
+    height: 140vh;
     width: 100%;
     justify-content: space-evenly;
     right: 0;
@@ -579,81 +579,78 @@ body {
   }
 }
 
-
-
 /* || CALCULATOR || */
 
-.offer{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    min-height: 100vh;
-    /* background:lightblue; */
-     
+.offer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  /* background:lightblue; */
 }
 
-.calculator{
-    position: relative;
-    display: grid;
+.calculator {
+  position: relative;
+  display: grid;
 }
 
-.calculator .value{
-    margin-bottom: .5em;
-    border-radius: 1em;
-    grid-column: span 5;
-    height: 100px;
-    text-align: right;
-    border: none;
-    outline: none;
-    padding: 10px;
-    font-size: 20px;
+.calculator .value {
+  margin-bottom: 0.5em;
+  border-radius: 1em;
+  grid-column: span 5;
+  height: 100px;
+  text-align: right;
+  border: none;
+  outline: none;
+  padding: 10px;
+  font-size: 20px;
 }
 
-.num{
-    margin: .2em;
-    border-radius: 1em;
-    display: grid;
-    width: 60px;
-    height: 60px;
-    color: #fff;
-    background: #0c2835;
-    place-items: center;
-    border: 1px solid rgba(0, 0, 0, 0.1);
-    font-size: 20px;
+.num {
+  margin: 0.2em;
+  border-radius: 1em;
+  display: grid;
+  width: 60px;
+  height: 60px;
+  color: #fff;
+  background: #0c2835;
+  place-items: center;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  font-size: 20px;
 }
 
-.calculator div:active{
-    background: #74ff3b;
-    color: #111;
+.calculator div:active {
+  background: #74ff3b;
+  color: #111;
 }
 
-.calculator div.equal{
-    background: #03b1ff;
+.calculator div.equal {
+  background: #03b1ff;
 }
 
-.ops:hover{
-    opacity: 80%;
+.ops:hover {
+  opacity: 80%;
 }
 
-.num:hover{
-    background: #03b1ff;
+.num:hover {
+  background: #03b1ff;
 }
 
-.ops{
-    margin: .2em;
-    border-radius: 1em;
-    display: grid;
-    width: 60px;
-    height: 60px;
-    color: black;
-    background: yellow;
-    place-items: center;
-    border: 1px solid rgba(0, 0, 0, 0.1);
-    font-size: 20px;
+.ops {
+  margin: 0.2em;
+  border-radius: 1em;
+  display: grid;
+  width: 60px;
+  height: 60px;
+  color: black;
+  background: yellow;
+  place-items: center;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  font-size: 20px;
 }
 
-.bungkus{
-    border: 1px solid black;
+.bungkus {
+  border: 1px solid black;
 }
 
 /* nav{
