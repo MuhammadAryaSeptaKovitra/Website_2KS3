@@ -380,11 +380,8 @@ hr {
   justify-content: center;
   align-items: center;
   padding: 0 5rem 20rem 5rem;
-}
-body {
   overflow-x: hidden;
 }
-
 .cards-wrapper {
   display: flex;
   justify-content: space-evenly;
